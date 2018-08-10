@@ -10,7 +10,7 @@ MYSQLCLIENT_LIB_DIR: C:\Program Files\MySQL\MySQL Server 5.7\lib
 mysql://user:pass@host:port/name?prefer_socket=false
 ```
 
-### mysql client
+### mysql
 ```
 # To connect to a database
 mysql -h localhost -u user -p
