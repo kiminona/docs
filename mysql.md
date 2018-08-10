@@ -16,3 +16,8 @@ CREATE DATABASE データベース名;
 GRANT ALL PRIVILEGES ON データベース名.* TO ユーザー名@localhost IDENTIFIED BY 'パスワード';
 FLUSH PRIVILEGES;
 ```
+### mysql client
+
+```
+mysql -h localhost -u user -p
+```
