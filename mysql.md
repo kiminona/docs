@@ -13,7 +13,7 @@ mysql://user:pass@host:port/name?prefer_socket=false
 ### mysql
 ```
 # To connect to a database
-mysql -h localhost -u user -p
+mysql -h localhost -u user -D database -P 3306 -p
 
 # To create a database in utf8 charset
 CREATE DATABASE owa CHARACTER SET utf8 COLLATE utf8_general_ci;
