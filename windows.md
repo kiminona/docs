@@ -1,5 +1,3 @@
-chcp 65001
-
 ## powershell
 
 - ### get environment variables
