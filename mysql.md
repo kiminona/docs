@@ -17,7 +17,10 @@ GRANT ALL PRIVILEGES ON データベース名.* TO ユーザー名@localhost IDE
 FLUSH PRIVILEGES;
 ```
 ### mysql client
-
 ```
+# To connect to a database
 mysql -h localhost -u user -p
+
+# To add a user and give rights on the given database
+GRANT ALL PRIVILEGES ON database.* TO 'user'@'localhost'IDENTIFIED BY 'password' WITH GRANT OPTION;
 ```
