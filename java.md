@@ -1,4 +1,4 @@
-### Tomcat hotreload
+### Tomcat hot-reload
 ```xml
 # server.xml
 <Host>
