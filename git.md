@@ -19,3 +19,4 @@ git log --oneline
 # rebase
 git rebase -i コミットid
 ```
+https://qiita.com/tsuuuuu_san/items/f708a9f7ea8ab8eb6945
