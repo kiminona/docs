@@ -11,7 +11,7 @@ https://blog.codefx.org/java/java-9-migration-guide/#Dependencies-On-Java-EE-Mod
 # Creating a Project
 mvn archetype:generate "-DgroupId=com.mycompany.app" "-DartifactId=my-app" "-DarchetypeArtifactId=maven-archetype-quickstart" "-DinteractiveMode=false"
 ```
-### class auto reload
+### Gretty Hot deployment
 ```
 gretty {
 	httpPort = 7788
