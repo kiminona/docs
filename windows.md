@@ -1,5 +1,9 @@
 ## powershell
 
+- ### powershell profile location
+```
+C:\Users\[user]\Documents\WindowsPowerShell\profile.ps1
+```
 - ### get environment variables
 ```powershell
 ls $Env
