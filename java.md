@@ -1,4 +1,3 @@
-```
 ### Gretty Hot deployment
 ```
 gretty {
