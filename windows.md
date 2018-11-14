@@ -6,7 +6,7 @@ C:\Users\[user]\Documents\WindowsPowerShell\profile.ps1
 ```
 - ### get environment variables
 ```powershell
-ls $Env
+ls Env:
 ```
 - ### get single environment variable
 ```powershell
